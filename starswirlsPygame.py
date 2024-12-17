@@ -8,7 +8,7 @@ import math
 
 # pygame setup
 pygame.init()
-screen = pygame.display.set_mode((1280, 720), pygame.SCALED | pygame.FULLSCREEN) #DELETE IF DONT WANT FULL SCREEN
+screen = pygame.display.set_mode((1280, 720), pygame.SCALED | pygame.FULLSCREEN) #DELETE !.SCALED | pygame.FULLSCREEN! IF DONT WANT FULL SCREEN
 clock = pygame.time.Clock()
 pygame.display.set_caption("Swirling Star with VSync")
 running = True
