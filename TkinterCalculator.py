@@ -7,7 +7,8 @@ class Calculator:
         self.master = master
         master.title("Calculadora")
 
-        #aqui puedes ajustar el tamano y los botones se ajustan automaticamente solo borra los # que empiezan
+        #aqui puedes ajustar el tamano y los botones se ajustan automaticamente solo borra los # que empiezan abajo
+        
         #master.geometry("300x400")  # Adjust width and height as needed
         #for i in range(5):  # 5 filas (1 para la entrada y 4 para botones)
           #  master.rowconfigure(i, weight=1)
