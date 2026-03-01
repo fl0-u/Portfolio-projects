@@ -1,4 +1,4 @@
-# uno
+# README
 ¡Hola! Bienvenido a mi espacio de aprendizaje.
 
 I'm particularly interested in automation, game development, and data visualization with Python. For web development, I'm starting with the fundamentals (HTML, CSS, JavaScript) to build a strong foundation and am eager to explore new frameworks and libraries
