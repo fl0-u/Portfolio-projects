@@ -1,7 +1,7 @@
 # README
 ¡Hola! Un placer que hayas abierto mi repositorio
 
-I'm particularly interested in automation, game development, and data visualization with Python. For web development, I'm starting with the fundamentals (HTML, CSS, JavaScript) to build a strong foundation and am eager to explore new frameworks and libraries
+My projects sofar are based in automation, game development, and data visualization with Python. For web development, which it builds a solid core foundation to attempt anything I need to tackle at the job.
 
 Este repositorio está en constante evolución, así que vuelve pronto para ver mis últimas creaciones.  Soy bilingüe en español e inglés, ¡así que no dudes en comunicarte conmigo en cualquiera de los dos!
 
