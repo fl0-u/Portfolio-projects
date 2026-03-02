@@ -10,3 +10,5 @@ I believe in the power of code to solve problems and create value. My experience
 I take pride on the thought process, designing, usability and engineering of each application or piece of code that I build.
 
 This is meant to be browsed as simply as it can be!
+How to: All files are projects, if its in a folder it means that it has items that make up the structure of the individual project. 
+If its a single file, it means file has all the code in a single sheet
